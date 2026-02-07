@@ -1,0 +1,3 @@
+# Mark ANTLR-generated code so GitHub collapses diffs and excludes from language stats.
+gen/** linguist-generated=true
+go.sum text eol=lf
